@@ -3,8 +3,7 @@
 
 <p align="center">
  💫 About Me:<br>
-  A passionate student with interests in both data science and front-end development.<br>
-  Enthusiastic about leveraging technology to solve real-world problems and<br> committed to continuous learning and innovation in these fields.<br><br>
+ A passionate student driven by a desire to leverage technology for solving real-world problems, committed to continuous learning and innovation.<br><br>
 </p>
 - 🌱 I’m currently learning stuffs related to data science and machine learning.<br>- 📫 How to reach me: alnaelsat@gmail.com<br>- ⚡ Fun fact:  I have a knack for turning coffee into code.<br>
 
